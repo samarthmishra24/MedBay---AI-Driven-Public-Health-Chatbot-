@@ -86,14 +86,6 @@ Screens:
 
 ---
 
-## Architecture Diagram
-
-This diagram shows the system flow from frontend → backend → AI/APIs → database → deployment.
-
-[Insert Architecture Image Here]
-
----
-
 ## Core Features
 
 - Multilingual chatbot  
