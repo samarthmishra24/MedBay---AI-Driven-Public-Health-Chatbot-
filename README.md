@@ -6,51 +6,51 @@ The application features a modern, responsive web interface built with Next.js, 
 
 ---
 
-## 📌 Vision Document
+## Vision Document
 
-### 🏷️ Project Name
+### Project Name
 MedBay – AI-Driven Public Health Chatbot
 
-### 📖 Overview
+### Overview
 MedBay is a multilingual, AI-powered public health chatbot designed to provide accessible, reliable, and real-time healthcare information to underserved populations.
 
-### ❗ Problem It Solves
+### Problem It Solves
 - Lack of reliable healthcare information  
 - Spread of misinformation  
 - Limited awareness of preventive care  
 - Difficulty in finding nearby hospitals  
 - Language barriers  
 
-### 👥 Target Users
+### Target Users
 - Rural users  
 - Urban low-income workers  
 - Health workers  
 - General public  
 
-### 🌍 Vision Statement
+### Vision Statement
 To provide accessible healthcare knowledge using AI.
 
-### 🚀 Key Features / Goals
+### Key Features / Goals
 - AI chatbot  
 - Symptom checker  
 - Hospital finder  
 - Document & X-ray analysis  
 - Multilingual support  
 
-### 📊 Success Metrics
+### Success Metrics
 - User engagement  
 - Accuracy of responses  
 - Number of users  
 - System performance  
 
-### ⚠️ Assumptions & Constraints
+### Assumptions & Constraints
 - Internet access required  
 - API dependency  
 - AI is non-diagnostic  
 
 ---
 
-## 🎯 MoSCoW Prioritization
+## MoSCoW Prioritization
 
 ### Must Have
 - Chatbot  
@@ -72,7 +72,7 @@ To provide accessible healthcare knowledge using AI.
 
 ---
 
-## 🎨 Wireframes (Figma)
+## Wireframes (Figma)
 
 Wireframes are created based on the existing frontend implementation.
 
@@ -88,7 +88,7 @@ Screens:
 
 ---
 
-## 🏗️ Architecture Diagram
+## Architecture Diagram
 
 This diagram shows the system flow from frontend → backend → AI/APIs → database → deployment.
 
@@ -96,7 +96,7 @@ This diagram shows the system flow from frontend → backend → AI/APIs → dat
 
 ---
 
-## 🚀 Core Features
+## Core Features
 
 - Multilingual chatbot  
 - Symptom checker  
@@ -109,7 +109,7 @@ This diagram shows the system flow from frontend → backend → AI/APIs → dat
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - Frontend: Next.js, Tailwind CSS  
 - Backend: FastAPI  
@@ -120,7 +120,7 @@ This diagram shows the system flow from frontend → backend → AI/APIs → dat
 
 ---
 
-## 🌿 Branching Strategy
+## Branching Strategy
 
 - main → production  
 - feature/* → development  
