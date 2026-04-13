@@ -78,10 +78,8 @@ Wireframes are created based on the existing frontend implementation.
 
 Figma Link: [Add Your Link Here]
 
-Screens:
-- Login  
-- Chat UI  
-- Symptom Checker  
+Screens: 
+- Chat UI    
 - Hospital Finder  
 - Upload Screen  
 - Dashboard  
